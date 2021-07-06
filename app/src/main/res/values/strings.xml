@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">TP4</string>
+    <string name="btn_Ingresar">Ingresar</string>
+    <string name="btn_Registrar">Registrar</string>
+    <string name="editTextTextPersonName">Ingrese_Correo</string>
+    <string name="editTextTextPassword">Ingrese_Contraseña</string>
+    <string name="textView">Login</string>
+    <string name="textView2">Registro</string>
+    <string name="editTextTextPersonName2">Ingrese Nombre Completo</string>
+    <string name="btn_Grabar">Grabar</string>
+    <string name="btn_Login">Login</string>
+    <string name="textView4">Bienvenido Programador</string>
+    <string name="textView5">Cordoba Gustavo</string>
+</resources>
+
+
